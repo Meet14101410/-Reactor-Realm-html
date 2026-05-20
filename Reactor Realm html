@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reactor Realm</title>
+</head>
+<body>
+  <h1>⚛️ Reactor Realm</h1>
+  <p>Enter the world of chemical reactions!</p>
+
+  <button onclick="startGame()">Start Game</button>
+
+  <script>
+    function startGame() {
+      alert("Welcome to Reactor Realm!");
+    }
+  </script>
+</body>
+</html>
